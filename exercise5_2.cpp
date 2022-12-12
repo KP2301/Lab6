@@ -7,6 +7,7 @@ string text2 = "" ;
 int N ;
 int count = 0 ;
 int main(){
+    cout <<  "Made by Kittiwin.";
     cout << "Enter the first text: ";
     cin >> text1;
     cout << "Enter the second text: ";
